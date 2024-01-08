@@ -63,5 +63,8 @@
   ],
   "lint-staged": {
     "*.tsx": "fix-style"
-  }
+  },
+	"engines": {
+		"node": "16.20.2"
+	}
 }
